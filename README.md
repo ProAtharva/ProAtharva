@@ -2,7 +2,7 @@
 
 ---
 
-### 🧠 PARTH SHIRKANDE's GitHub Stats
+### 🧠 ATHARVA SHIRKANDE's GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProAtharva&show_icons=true&theme=radical&hide_border=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAtharva&layout=compact&theme=radical&hide_border=true" height="180em" />
