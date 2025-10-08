@@ -4,8 +4,8 @@
 
 ### 🧠 ATHARVA SHIRKANDE's GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProAtharva&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAtharva&layout=compact&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProAtharva&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProAtharva&layout=compact&theme=radical&hide_border=true&hide=C,C%2B%2B,Python,Java" height="180em" />
 </div>
 
 ---
@@ -42,5 +42,5 @@
 ---
 
 <div align="right">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300" alt="fun animation"/>
 </div>
